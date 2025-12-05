@@ -1,5 +1,5 @@
 # How-to-interview
-<!DOCTYPE html>
+
 <html>
 <body>
 <header background-color="#aa4a4c">
