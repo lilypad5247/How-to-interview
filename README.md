@@ -7,7 +7,7 @@
 <p>How to prepare and interview a source.</p>
 </header> 
 <h2> 1. Do your research</h2>
-<a href="//imgur.com/a/zFriutz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src= <a href="//imgur.com/a/zFriutz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   
 <body>first, do research into your source so you can properly prepare relevent questions. Make sure you know that the question you ask are approprate. Also knowing your audience helps you set the tone of the questions.</body>
 <h2> 2.Contact your source </h2>
