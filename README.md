@@ -11,7 +11,7 @@
   
 <body>first, do research into your source so you can properly prepare relevent questions. Make sure you know that the question you ask are approprate. Also knowing your audience helps you set the tone of the questions.</body>
 <h2> 2.Contact your source </h2>
-<img src= 
+<img src= <blockquote class="imgur-embed-pub" lang="en" data-id="a/zFriutz" data-context="false" ><a href="//imgur.com/a/zFriutz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   
 <body> contact your source to ask for an interview. tell them what or who your writing for, and a little about why youd like to interview them. if they accept suggest a date and time.</body>
 <h2>3.Write down your questions</h2>
