@@ -36,3 +36,8 @@
 <body>shake out your nerves beforehand. keeping yourself calm and professional will keep your source from getting tence</body>
 <h2>Thank your source after the interview</h2>
 <img src= 
+  
+<body> Make sure you thank them for there time. Being polite will help you build connections. </body>
+<h2>A video for more information</h2>
+<body>https://youtu.be/WDOQBPYEaNs?si=jAEmHSW2vtOwksVp</body>
+</html>
